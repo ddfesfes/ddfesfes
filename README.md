@@ -3,6 +3,7 @@
 # Learning 😎
 ### -Python
 ### -Java
+### -Lua
 ### -C++
 ### -C
 ### Newbie for all language 😥
