@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Stats 🥶
+[![ddfesfes's github stats](https://github-readme-stats.vercel.app/api?username=ddfesfes)](https://github.com/ddfesfes/github-readme-stats)
+
 # Learning 😎
 ### -Python
 ### -Java
@@ -7,12 +10,6 @@
 ### -C++
 ### -C
 ### Newbie for all language 😥
-
-# Wa Sans
-### 아시는구나
-
-
-[![ddfesfes's github stats](https://github-readme-stats.vercel.app/api?username=ddfesfes)](https://github.com/ddfesfes/github-readme-stats)
 
 <!--
 **ddfesfes/ddfesfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
