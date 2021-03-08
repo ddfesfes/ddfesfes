@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-### Learning 😎
+# Learning 😎
 ### -Python
 ### -Java
 ### -C++
 ### -C
+### Newbie for all language 😥
 
 <!--
 **ddfesfes/ddfesfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
