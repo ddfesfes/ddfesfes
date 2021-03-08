@@ -5,9 +5,9 @@
 [![ddfesfes's github stats](https://github-readme-stats.vercel.app/api?username=ddfesfes)](https://github.com/ddfesfes/github-readme-stats)
 
 ## Learning 😎
--Python
--Java
--Lua
--C++
--C
+- Python
+- Java
+- Lua
+- C++
+- C
 ### Newbie for all language 😥
