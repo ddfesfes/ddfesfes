@@ -4,13 +4,7 @@
 # Stats 🥶
 [![ddfesfes's github stats](https://github-readme-stats.vercel.app/api?username=ddfesfes)](https://github.com/ddfesfes/github-readme-stats)
 
-## Learning 😎
-- Python
-- Java
-- Lua
-- C++
-- C
-### Newbie for all language 😥
+### Newbie in all language 😥
 
 ### Social 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -27,3 +21,5 @@
 ### Workspace Specs
 <img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
+## Thanks to
+Papago
