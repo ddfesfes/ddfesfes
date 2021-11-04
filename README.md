@@ -21,5 +21,4 @@
 ### Workspace Specs
 <img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
-## Thanks to
-- Papago
+[![Melon]](https://github.com/nyamnyamgood)
