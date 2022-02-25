@@ -4,9 +4,7 @@
 # Stats 🥶
 [![ddfesfes's github stats](https://github-readme-stats.vercel.app/api?username=ddfesfes)](https://github.com/ddfesfes/github-readme-stats)
 
-### Newbie in all language 😥
-
-### Social 
+### Social 👥
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 ### Skills 🚀
